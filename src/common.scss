@@ -1,0 +1,63 @@
+body{
+    margin: 0;  
+    padding: 0;
+}  
+ 
+.alitem{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.justcont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.alitemt{
+    display: flex;
+    align-items: center;
+}
+.justcont-between{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mrt-20{
+    margin: 0 20px;
+} 
+.flex{
+    display: flex;
+}
+.box-shadow{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04);
+} 
+.mr-5{
+    margin-left: 10px;
+}
+.mr-20{
+    margin-left: 20px;
+}
+.mr-30{
+    margin-left: 30px;
+}
+.mrl-40{
+    margin-left: 40px;
+}
+.mr-40{
+    margin-left: 150px;
+}
+.pd-5{
+    padding:0 5px;
+}
+.pd-30{
+    padding-left: 10px;
+}
+.pd{
+    padding:0 25px;
+}
+.pd-20{
+    padding: 20px;
+}
+.pd-10{
+    padding: 5px;
+}
